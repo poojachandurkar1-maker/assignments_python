@@ -1,0 +1,25 @@
+task 1
+When you run the program, you will be prompted to enter two numbers:
+
+```bash
+Enter the first number: 8
+Enter the second number: 10
+
+ o/p given by program
+addition = 18.0
+subtraction = -2.0
+multiplication = 80.0
+division = 0.8
+In this program arithmetic operater is used also input function use.
+
+
+task 2
+When you run the program,you will be prompted to enter first and last name
+1. first_name
+2. last_name
+o/p given by program
+Enter your first name: pooja
+Enter your last name: chandurkar
+hello pooja chandurkar ! welcome to python program
+
+in this program concatenate funtion is used to join the first_name and last_name.
